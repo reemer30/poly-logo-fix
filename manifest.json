@@ -1,0 +1,16 @@
+{
+  "name": "PortalLogoFix",
+  "version": "0.01",
+  "description": "Replaces the 'improved' Cal Poly logo with the old one on the portal.",
+  "manifest_version": 2,
+  "content_scripts": [{
+      "matches": ["*://polylearn.calpoly.edu/*", "*://myportal.calpoly.edu/*"],
+      "all_frames": true,
+      "js":      ["js/oof.js"]
+  }],
+
+  "icons": {
+    "16": "icons/logo16.png",
+    "128": "icons/logo128.png"
+  }
+}
