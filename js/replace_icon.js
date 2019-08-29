@@ -1,1 +1,1 @@
-document.querySelector('link[rel*="shortcut icon"]').href = "https://www.pngfind.com/pngs/m/267-2679209_cal-poly-mustangs-logo-cal-poly-san-luis.png"
+document.querySelector('link[rel*="shortcut icon"]').href = "https://raw.githubusercontent.com/reemer30/poly-logo-fix/master/icons/favicon-96x96.ico"
