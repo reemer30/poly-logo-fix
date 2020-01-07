@@ -17,6 +17,11 @@
 	  "matches": ["*://idp.calpoly.edu/*"],
       "all_frames": true,
       "js":      ["js/replace_header_login.js", "js/replace_icon_login.js"]
+	},
+	{
+	  "matches": ["*://canvas.calpoly.edu/*"],
+      "all_frames": true,
+      "js":      ["js/replace_canvas.js"]
 	}
   ],
 
