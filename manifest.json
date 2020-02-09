@@ -22,6 +22,11 @@
 	  "matches": ["*://canvas.calpoly.edu/*"],
       "all_frames": true,
       "js":      ["js/replace_canvas.js"]
+	},
+	{
+	  "matches": ["*://schedules.calpoly.edu/*"],
+      "all_frames": true,
+      "js":      ["js/replace_schedules.js"]
 	}
   ],
 
