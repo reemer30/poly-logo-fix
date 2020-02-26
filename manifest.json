@@ -1,6 +1,6 @@
 {
   "name": "PolyLogoFix",
-  "version": "1.5",
+  "version": "1.7",
   "description": "Replaces the 'improved' Cal Poly logo with the old one on the portal.",
   "manifest_version": 2,
   "content_scripts": [{
